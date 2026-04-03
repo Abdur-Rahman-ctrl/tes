@@ -1,4 +1,4 @@
 ini juga 1.a
 halo halo
-yahaha
 pesan dari cabang 1.a
+pesan dari cabang 1.b
