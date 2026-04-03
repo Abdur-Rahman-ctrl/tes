@@ -1,4 +1,5 @@
-apakah akan error?
-halo 1.b bikin error dong
-coba ini dibuat clashing pada 1.b
-bikin konflik dong coba
+
+pesan ini ditulis dari cabang 1.b
+ini diedit dari cabang 1.b
+pesan awal dari cabang 1.a adalah "halo tes tes"
+
